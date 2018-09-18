@@ -1,0 +1,209 @@
+    1  /Volumes/VirtualBox/VirtualBox_Uninstall.tool ; exit;
+    2  /Volumes/VirtualBox/VirtualBox_Uninstall.tool ; exit;
+    3  ifconfig
+    4  clear
+    5  ifconfig wlan0
+    6  ifconfig wlan0
+    7  ifconfig
+    8  ipconfig
+    9  getifaddr
+   10  ifconfig |grep inet
+   11  cd
+   12  ls
+   13  mkdir nodeClass
+   14  cd nodeClass
+   15  ls
+   16  npm init
+   17  ls
+   18  cat package.json
+   19  ls
+   20  node main.js
+   21  node main.js
+   22  node main.js
+   23  npm install upper-case
+   24  cat package.json
+   25  cd node_modules
+   26  ls
+   27  cd upper-case/
+   28  ls
+   29  node main.js
+   30  node main.js
+   31  pwd
+   32  cd ../
+   33  ls
+   34  cd ../
+   35  ls
+   36  node main.js
+   37  node main.js
+   38  node main.js
+   39  /Applications/iZotope\ Ozone\ 8.app/Contents/MacOS/iZotope\ Ozone\ 8 ; exit;
+   40  /Applications/iZotope\ Ozone\ 8.app/Contents/MacOS/libtag.dylib ; exit;
+   41  /Applications/iZotope\ Ozone\ 8.app/Contents/MacOS/libmp3lame.dylib ; exit;
+   42  /Applications/iZotope\ Ozone\ 8.app/Contents/MacOS/Neuron\ Plugin\ Scanner.app/Contents/MacOS/Neuron\ Plugin\ Scanner ; exit;
+   43  scp password.txt john@192.168.1.1:/tmp
+   44  scp password
+   45  scp password.txt
+   46  cat password.txt
+   47  cat Don Fountain's Resume.docx
+   48  1
+   49  ls
+   50  cd
+   51  ls
+   52  cd Documetns
+   53  cd Documents
+   54  cd
+   55  ls
+   56  cd
+   57  ls
+   58  cd Documents
+   59  ls
+   60  cd
+   61  ls
+   62  traceroute
+   63  clear
+   64  brew install mysql
+   65  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   66  bre install mysql
+   67  brew install mysql
+   68  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   69   clear
+   70  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   71  brew install mysql
+   72  brew services start mysql
+   73  mysqladmin -u root password "root"
+   74  mysqladmin -u root -p
+   75  show database;
+   76  show databases;
+   77  mysqladmin -u root -p
+   78  mysqladmin show databases;
+   79  use localhost
+   80  mysqladmin -u root password "root"
+   81  mysqladmin -u root password "root"
+   82  mysqladmin -u root -p
+   83  mysqladmin -u root show databases;
+   84  mysqlamind -u root password "root"
+   85  mysqladmin -u root password "root"
+   86  mysqladmin -u root show-database;s
+   87  mysqladmin
+   88  flush-logs
+   89  mysqladmin show databases;
+   90  mysqladmin root show databases;
+   91  ifconfig
+   92  ipconfig
+   93  ip
+   94  ipaddress
+   95  ifconfig
+   96  ipconfig
+   97  ssh root@32:00:14:66:1a:e
+   98  ssh root@32:00:14:66:1a:e0 
+   99  systemsetup -setremotelogin on
+  100  systemsetup -setremotelogin on root
+  101  systemsetup -setremotelogin on
+  102  systemsetup -setremotelogin on
+  103  mysql -u root -p
+  104  mysql -u root -p
+  105  mysql -u root -p
+  106  mysql -u root -p
+  107  mysql -u root -p
+  108  ls
+  109  cd
+  110  ls
+  111  cd Documents
+  112  ls
+  113  gcc -v
+  114  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  115  cd ~
+  116  nano .bash_profile
+  117  history > output.txt
+  118  py#Env
+  119  py3Env
+  120  exit
+  121  Traceback (most recent call last):
+  122    File "<stdin>", line 1, in <module>
+  123  NameError: name 'python3' is not defined
+  124  >>> 
+  125  >>> 
+  126  >>> 
+  127  >>> 
+  128  >>> 
+  129  >>> 
+  130  >>> python3 - V
+  131  Traceback (most recent call last):
+  132    File "<stdin>", line 1, in <module>
+  133  NameError: name 'python3' is not defined
+  134  >>> exit
+  135  Use exit() or Ctrl-D (i.e. EOF) to exit
+  136  >>> exit()
+  137  don:~ gameheads$ python3 -V
+  138  Python 3.7.0
+  139  brew
+  140  bre update
+  141  brew update
+  142  brew install python3
+  143  python3 -v
+  144  python3 -V
+  145  python3
+  146  pip install django
+  147  pip3 install django
+  148  pip3 uninstall django
+  149  pip3 install virtualenv
+  150  ls
+  151  cd Documents
+  152  ls
+  153  mkdir python_stack
+  154  ls
+  155  cd python_stack
+  156  ls
+  157  pwd
+  158  mkdir myEnvironments python_fundamentals python_OOP flask_fundamentals flask_MySQL
+  159  ls
+  160  cd myEnvironments/
+  161  virtualenv -p python3 py3Env
+  162  source py3Env/bin/activate
+  163  pip install Django==1.11.9
+  164  pip list
+  165  deactivate
+  166  pip3 list
+  167  source myEnvironments/py3Env/bin/activate
+  168  source myEnvironments/py3Env/bin/activate
+  169  ls
+  170  source
+  171  ls
+  172  py3Env
+  173  activate
+  174  ls
+  175  cd ..
+  176  ..
+  177  ls
+  178  cd ..
+  179  pwd
+  180  ls
+  181  cd python_stack
+  182  ls
+  183  source myEnvironments/py3Env/bin/activate
+  184  pip install Django==1.11.9
+  185  pip freeze
+  186  pip list
+  187  pip freeze
+  188  cd ~/Desktop
+  189  pip freeze > Requirements.txt
+  190  ls
+  191  pip uninstall Django
+  192  pip show Django
+  193  ls
+  194  pip search Flask
+  195  deactivate
+  196  ls
+  197  cd ..
+  198  ls
+  199  cd Documents
+  200  ls
+  201  cd Coding Dojo
+  202  cd Coding-Dojo
+  203  ls
+  204  mkdir Day-11
+  205  script output.txt
+  206  script output.txt
+  207  history
+  208  history < output.txt
+  209  history > output.txt

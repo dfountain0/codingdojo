@@ -1,0 +1,56 @@
+body {
+	background-color: navy;
+	padding: 0px;
+}
+
+header {
+	background-color: red;
+	padding: 10px;
+	border-radius:10px;
+	margin: 10px;
+}
+
+header h1 {
+	color: white;
+}
+
+nav {
+	display: inline-block;
+	color: blue;
+	background-color: cyan;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+}
+#main_content {
+	display: inline-block;
+	background-color: black;
+	padding: 26px;
+	min-height: 521px;
+	width: 76.5%;
+	vertical-align: top;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+#main_content h3, p, li{
+	color: white;
+}
+
+#main_content a {
+	color: blue;
+	margin: 5px;
+}
+
+
+code {
+	color: purple;
+}
+
+footer {
+	vertical-align: bottom;
+	margin:10px;
+	padding: 10px;
+	background-color:blue;
+	border-radius: 10px;
+}

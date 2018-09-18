@@ -1,0 +1,168 @@
+* {
+	outline: 1px solid red;
+}
+
+.wrapper {
+	background-color: white;
+	margin: auto;
+	width: 970px;
+	height: 970px;
+}
+
+.header {
+	margin: auto;
+	width: 970px;
+	height: 200px;
+}
+
+.side_links {
+	display: inline-block;
+	background-color: red;
+	vertical-align: bottom;
+	width: 200px;
+	height: 770px;
+}
+
+.main_content {
+	display: inline-block;
+	background-color: orange;
+	vertical-align: top;
+	margin-left: -4px;
+	width: 770px;
+	height: 770px;
+}
+
+.header img{
+	display: inline-block;
+	vertical-align: top;
+	width: 100px;
+	height: 100px;
+}
+
+.aych1 {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 70px;
+	margin: 0px 0px 0px -4px;
+	width: 384px;
+	height: 100px;
+}
+
+.aych2 {
+	vertical-align: top;
+	background-color: blue;
+	margin: 0px 0px 0px 0px;
+	height: 56px;
+	font-size: 43px;
+	padding-left: 10px;
+	padding: 22px;
+}
+
+.side-link-header {
+	background-color: pink;
+	width: 200px;
+	height: 150px;
+}
+
+.side-link-buttons {
+	width: 200px;
+	height: 150px;
+	margin-top: 7px;
+	margin-bottom: -61px;
+}
+
+.side-link-buttons button {
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	border-radius: 5px;
+	margin-top: 3px;
+}
+
+.side-link-buttons button:first-child {
+	background-color: blue ;
+}
+
+.side_links hr{
+	width: 200px;
+	margin-top: 20px;
+	margin-bottom: 21px;
+}
+
+.side-ad {
+	background-color: teal;
+	width: 200px;
+	height: 300px;
+}
+
+.top {
+	background-color: black;
+	height: 385px;
+}
+
+.top header {
+	background-color: grey;
+	height: 75px;
+}
+
+.nav-button {
+	background-color: gold;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 427px;
+	width: 133px;
+	height: 40px;
+}
+
+.nav-button a {
+	
+}
+
+
+.nav-button h5 {
+	display: inline-block;
+}
+
+.vcard {
+	background-color: red;
+	display: inline-block;
+	margin-left: -4px;
+	width: 150px;
+	height: 75px;
+}
+
+.top hr {
+	background-color: yellow;
+}
+.content-description {
+	background-color: green;
+	margin-top: -12px;
+	height: 290px;
+	vertical-align: top;
+}
+
+section img{
+	display: inline-block;
+}
+
+.bottom {
+	display: inline-block;
+	width: 770px;
+	height: 385px;
+}
+
+
+footer {
+	background-color: yellow;
+	width: 770px;
+	height: 182px;
+
+}
+
+.footer-description {
+	border: 2px solid blue;
+	width: 669px;
+	height: 182px;
+	margin: 0px 50px 0px 50px;
+}
+
